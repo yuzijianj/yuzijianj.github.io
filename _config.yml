@@ -99,7 +99,7 @@ cdn: ""
 
 
 # 侧边栏的头像，支持本地或 CROS 资源
-avatar: /avatar.png
+avatar: /avatar.jpg
 
 # SEO `og:image` 元标记中使用的全站社交预览图像的 URL。
 # 可以在帖子的 Front Matter 中使用 `page.image` 覆盖。
